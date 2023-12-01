@@ -1,0 +1,35 @@
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7314.png" group-title="Кинозал",Кинеко
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",2x2 (720p)
+https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon
+http://europe3.livetv.az/russia/nickelodeon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic
+https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",Nat Geo Wild
+http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Entertainment",Пятница International
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+
+#EXTINF:-1 tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Entertainment",Пятница!
+http://europe3.livetv.az/russia/pyatnica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kinomix.ru" tvg-logo="https://i.imgur.com/D4q2XUT.png" group-title="Movies",Киномикс (576p)
+https://tbs01-edge11.itdc.ge/kinomiks/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-logo="https://i.imgur.com/s0UYT8T.png" group-title="Movies",Кинопремьера (720p)
+https://tbs01-edge11.itdc.ge/kinopremyerahd/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-logo="https://i.imgur.com/iao7zLZ.png" group-title="Movies",Киносерия (576p)
+https://tbs01-edge11.itdc.ge/kinoseria/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-logo="https://i.imgur.com/mAcAAQF.png" group-title="Movies",Киноужас (576p)
+https://tbs01-edge11.itdc.ge/kinoujas/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinohit.ru" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="Movies",Кинохит (576p)
+https://tbs01-edge11.itdc.ge/kinohit/index.m3u8
